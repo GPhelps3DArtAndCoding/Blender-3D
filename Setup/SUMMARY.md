@@ -1,3 +1,3 @@
 # Table of contents
 
-* [My Setup](README.md)
+* [My Bldner Setup](README.md)
